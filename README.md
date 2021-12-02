@@ -1,4 +1,4 @@
-**👋 Hello, I'm Vadim**
+**Hello 👋, I'm Vadim**
 
 **I'm python developer**
 - 📝 I like write code
