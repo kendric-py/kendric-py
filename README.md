@@ -1,9 +1,4 @@
-Header
-
-About me
-
-pass
-
+😄 good developer
 <!--
 **kendric-py/kendric-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
