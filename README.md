@@ -1,4 +1,14 @@
-😄 good developer
+**👋 Hello, I'm Vadim**
+
+**I'm python developer**
+- 📝 I like write code
+
+
+
+
+
+
+
 <!--
 **kendric-py/kendric-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
